@@ -48,7 +48,7 @@ _alphatauri_weekends = {
     "qatar": 0,
     "usa": 5,
     "mexico": 6,
-    "brazil": 3,   # sprint only
+    "brazil": 5,
     "vegas": 0,
     "abu_dhabi": 0,
 }
