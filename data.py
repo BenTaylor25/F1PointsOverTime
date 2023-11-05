@@ -126,7 +126,7 @@ _haas_weekends = {
     "abu_dhabi": 0,
 }
 
-dates = _points_sessions.values()
+dates = list(_points_sessions.values())
 
 alphatauri_points = list(_alphatauri_weekends.values())
 points_to_cumulative(alphatauri_points)

@@ -13,6 +13,11 @@ plt.plot(dates, haas_points, '#db2416', label="Haas", linewidth=3)
 
 plt.axvline(x=datetime(2023, 7, 3), color='#000000', linestyle='--')
 
+today = datetime.today()
+if today < dates[-1]:
+    plt.axvline(x=today, color='#000000', linestyle='--')
+
+
 # beautify the x-labels
 plt.gcf().autofmt_xdate()
 
