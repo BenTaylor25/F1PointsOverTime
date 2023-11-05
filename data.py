@@ -2,6 +2,7 @@ from datetime import datetime
 from points_to_cumulative import points_to_cumulative
 
 _points_sessions = {
+    "testing": datetime(2023, 2, 25),
     "bahrain": datetime(2023, 3, 5),
     "jeddah": datetime(2023, 3, 19),
     "australia": datetime(2023, 4, 2),
@@ -27,6 +28,7 @@ _points_sessions = {
 }
 
 _alphatauri_weekends = {
+    "testing": 0,
     "bahrain": 0,
     "jeddah": 0,
     "australia": 1,
@@ -52,6 +54,7 @@ _alphatauri_weekends = {
 }
 
 _wiliams_weekends = {
+    "testing": 0,
     "bahrain": 1,
     "jeddah": 0,
     "australia": 0,
@@ -77,6 +80,7 @@ _wiliams_weekends = {
 }
 
 _alfa_romeo_weekends = {
+    "testing": 0,
     "bahrain": 4,
     "jeddah": 0,
     "australia": 2,
@@ -102,6 +106,7 @@ _alfa_romeo_weekends = {
 }
 
 _haas_weekends = {
+    "testing": 0,
     "bahrain": 0,
     "jeddah": 1,
     "australia": 6,
