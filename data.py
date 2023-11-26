@@ -50,7 +50,7 @@ _alphatauri_weekends = {
     "mexico": 6,
     "brazil": 5,
     "vegas": 0,
-    "abu_dhabi": 0,
+    "abu_dhabi": 4,
 }
 
 _wiliams_weekends = {
