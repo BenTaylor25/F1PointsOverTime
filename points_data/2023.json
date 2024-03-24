@@ -1,0 +1,304 @@
+{
+    "year": 2023,
+    "weekends": [
+        {
+            "name": "testing",
+            "date": {
+                "month": 2,
+                "day": 25
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 0,
+                "haas": 0,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "bahrain",
+            "date": {
+                "month": 3,
+                "day": 5
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 1,
+                "haas": 0,
+                "alpha_romeo": 4
+            }
+        },
+        {
+            "name": "jeddah",
+            "date": {
+                "month": 3,
+                "day": 19
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 0,
+                "haas": 1,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "australia",
+            "date": {
+                "month": 4,
+                "day": 2
+            },
+            "points": {
+                "alphatauri": 1,
+                "williams": 0,
+                "haas": 6,
+                "alpha_romeo": 2
+            }
+        },
+        {
+            "name": "baku",
+            "date": {
+                "month": 4,
+                "day": 30
+            },
+            "points": {
+                "alphatauri": 1,
+                "williams": 0,
+                "haas": 0,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "miami",
+            "date": {
+                "month": 5,
+                "day": 7
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 0,
+                "haas": 1,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "monaco",
+            "date": {
+                "month": 5,
+                "day": 28
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 0,
+                "haas": 0,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "spain",
+            "date": {
+                "month": 6,
+                "day": 4
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 0,
+                "haas": 0,
+                "alpha_romeo": 2
+            }
+        },
+        {
+            "name": "canada",
+            "date": {
+                "month": 6,
+                "day": 18
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 6,
+                "haas": 0,
+                "alpha_romeo": 1
+            }
+        },
+        {
+            "name": "austria",
+            "date": {
+                "month": 7,
+                "day": 2
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 0,
+                "haas": 3,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "silverstone",
+            "date": {
+                "month": 7,
+                "day": 9
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 4,
+                "haas": 0,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "hungary",
+            "date": {
+                "month": 7,
+                "day": 23
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 0,
+                "haas": 0,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "spa",
+            "date": {
+                "month": 7,
+                "day": 30
+            },
+            "points": {
+                "alphatauri": 1,
+                "williams": 0,
+                "haas": 0,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "zandvoort",
+            "date": {
+                "month": 8,
+                "day": 27
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 4,
+                "haas": 0,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "monza",
+            "date": {
+                "month": 9,
+                "day": 3
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 6,
+                "haas": 0,
+                "alpha_romeo": 1
+            }
+        },
+        {
+            "name": "singapore",
+            "date": {
+                "month": 9,
+                "day": 17
+            },
+            "points": {
+                "alphatauri": 2,
+                "williams": 0,
+                "haas": 1,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "suzuka",
+            "date": {
+                "month": 9,
+                "day": 24
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 0,
+                "haas": 0,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "qatar",
+            "date": {
+                "month": 10,
+                "day": 8
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 2,
+                "haas": 0,
+                "alpha_romeo": 6
+            }
+        },
+        {
+            "name": "usa",
+            "date": {
+                "month": 10,
+                "day": 22
+            },
+            "points": {
+                "alphatauri": 5,
+                "williams": 2,
+                "haas": 0,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "mexico",
+            "date": {
+                "month": 10,
+                "day": 29
+            },
+            "points": {
+                "alphatauri": 6,
+                "williams": 2,
+                "haas": 0,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "brazil",
+            "date": {
+                "month": 11,
+                "day": 5
+            },
+            "points": {
+                "alphatauri": 5,
+                "williams": 0,
+                "haas": 0,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "vegas",
+            "date": {
+                "month": 11,
+                "day": 18
+            },
+            "points": {
+                "alphatauri": 0,
+                "williams": 0,
+                "haas": 0,
+                "alpha_romeo": 0
+            }
+        },
+        {
+            "name": "abu_dhabi",
+            "date": {
+                "month": 11,
+                "day": 26
+            },
+            "points": {
+                "alphatauri": 4,
+                "williams": 0,
+                "haas": 0,
+                "alpha_romeo": 0
+            }
+        }
+    ]
+}
