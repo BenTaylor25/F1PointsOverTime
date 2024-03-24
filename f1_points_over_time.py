@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from data import get_season_data
 
 if __name__ == "__main__":
-    season = get_season_data(2023)
+    season = get_season_data()
     dates = season["dates"]
 
     for team_name in season["team_names"]:
@@ -13,7 +13,11 @@ if __name__ == "__main__":
 
         plt.plot(dates, team_points, team_colour, label=team_name, linewidth=3, marker='o')
 
-    plt.axvline(x=datetime(2023, 7, 3), color='#000000', linestyle='--')
+    # SAT etart and end Date
+    if season["year"] == 2023:
+        plt.axvline(x=datetime(2023, 7, 3), color='#000000', linestyle='--')
+    elif season["year"] == 2024:
+        plt.axvline(x=datetime(2024, 8, 2), color='#000000', linestyle='--')
 
     today = datetime.today()
     if today < dates[-1]:

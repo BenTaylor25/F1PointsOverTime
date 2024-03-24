@@ -1,12 +1,42 @@
-import os, json
+from os import path, walk
+import json
 from datetime import datetime
 
 DATA_PATH = "./points_data"
+SEASON_FILE_EXTENSION = ".json"
 
-def get_season_data(year):
-    filepath = f"{DATA_PATH}/{year}.json"
+def get_all_filenames():
+    filenames = []
 
-    if os.path.exists(filepath):
+    for (_, _, walk_filenames) in walk(DATA_PATH):
+        for filename in walk_filenames:
+            filenames.append(filename)
+
+    return filenames
+
+def get_season_filename() -> str:
+    filenames = get_all_filenames()
+
+    for filename in filenames:
+        print(f"- '{filename}'")
+
+    while True:
+        user_filename = input("Enter season filename: ")
+
+        # Allow the user to omit file extension.
+        if SEASON_FILE_EXTENSION not in user_filename:
+            user_filename += SEASON_FILE_EXTENSION
+
+        if user_filename not in filenames:
+            print("Filename not recognised, try again.")
+        else:
+            return user_filename
+
+def get_season_data():
+    season_filename = get_season_filename()
+    filepath = f"{DATA_PATH}/{season_filename}"
+
+    if path.exists(filepath):
         with open(filepath) as f:
             deserialised_json = json.load(f)
 
