@@ -16,6 +16,10 @@
         {
             "name": "Haas",
             "hex_colour": "#db2416"
+        },
+        {
+            "name": "Alpine",
+            "hex_colour": "#d07ac0"
         }
     ],
     "weekends": [
@@ -29,7 +33,8 @@
                 "RB": 0,
                 "Williams": 0,
                 "Haas": 0,
-                "Stake": 0
+                "Stake": 0,
+                "Alpine": 0
             }
         },
         {
@@ -42,7 +47,8 @@
                 "RB": 0,
                 "Williams": 0,
                 "Haas": 0,
-                "Stake": 0
+                "Stake": 0,
+                "Alpine": 0
             }
         },
         {
@@ -55,7 +61,8 @@
                 "RB": 0,
                 "Williams": 0,
                 "Haas": 1,
-                "Stake": 0
+                "Stake": 0,
+                "Alpine": 0
             }
         },
         {
@@ -68,7 +75,8 @@
                 "RB": 4,
                 "Williams": 0,
                 "Haas": 3,
-                "Stake": 0
+                "Stake": 0,
+                "Alpine": 0
             }
         }
     ]
