@@ -1,0 +1,75 @@
+{
+    "year": 2023,
+    "teams": [
+        {
+            "name": "RB",
+            "hex_colour": "#132faa"
+        },
+        {
+            "name": "Williams",
+            "hex_colour": "#00a1dd"
+        },
+        {
+            "name": "Stake",
+            "hex_colour": "#00e400"
+        },
+        {
+            "name": "Haas",
+            "hex_colour": "#db2416"
+        }
+    ],
+    "weekends": [
+        {
+            "name": "testing",
+            "date": {
+                "month": 2,
+                "day": 23
+            },
+            "points": {
+                "RB": 0,
+                "Williams": 0,
+                "Haas": 0,
+                "Stake": 0
+            }
+        },
+        {
+            "name": "bahrain",
+            "date": {
+                "month": 3,
+                "day": 2
+            },
+            "points": {
+                "RB": 0,
+                "Williams": 0,
+                "Haas": 0,
+                "Stake": 0
+            }
+        },
+        {
+            "name": "saudi",
+            "date": {
+                "month": 3,
+                "day": 9
+            },
+            "points": {
+                "RB": 0,
+                "Williams": 0,
+                "Haas": 1,
+                "Stake": 0
+            }
+        },
+        {
+            "name": "australia",
+            "date": {
+                "month": 3,
+                "day": 24
+            },
+            "points": {
+                "RB": 4,
+                "Williams": 0,
+                "Haas": 3,
+                "Stake": 0
+            }
+        }
+    ]
+}
