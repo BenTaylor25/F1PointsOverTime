@@ -19,7 +19,7 @@ if __name__ == "__main__":
     if season["year"] == 2023:
         plt.axvline(x=PLACEMENT_START, color='#000000', linestyle='--')
     elif season["year"] == 2024:
-        if datetime.now >= PLACEMENT_END:
+        if datetime.today() >= PLACEMENT_END:
             plt.axvline(x=PLACEMENT_END, color='#000000', linestyle='--')
 
     today = datetime.today()
