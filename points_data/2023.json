@@ -1,5 +1,23 @@
 {
     "year": 2023,
+    "teams": [
+        {
+            "name": "AlphaTauri",
+            "hex_colour": "#010f1a"
+        },
+        {
+            "name": "Williams",
+            "hex_colour": "#00a1dd"
+        },
+        {
+            "name": "Alfa Romeo",
+            "hex_colour": "#720a1e"
+        },
+        {
+            "name": "Haas",
+            "hex_colour": "#db2416"
+        }
+    ],
     "weekends": [
         {
             "name": "testing",
@@ -8,10 +26,10 @@
                 "day": 25
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 0,
-                "haas": 0,
-                "alpha_romeo": 0
+                "AlphaTauri": 0,
+                "Williams": 0,
+                "Haas": 0,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -21,10 +39,10 @@
                 "day": 5
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 1,
-                "haas": 0,
-                "alpha_romeo": 4
+                "AlphaTauri": 0,
+                "Williams": 1,
+                "Haas": 0,
+                "Alfa Romeo": 4
             }
         },
         {
@@ -34,10 +52,10 @@
                 "day": 19
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 0,
-                "haas": 1,
-                "alpha_romeo": 0
+                "AlphaTauri": 0,
+                "Williams": 0,
+                "Haas": 1,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -47,10 +65,10 @@
                 "day": 2
             },
             "points": {
-                "alphatauri": 1,
-                "williams": 0,
-                "haas": 6,
-                "alpha_romeo": 2
+                "AlphaTauri": 1,
+                "Williams": 0,
+                "Haas": 6,
+                "Alfa Romeo": 2
             }
         },
         {
@@ -60,10 +78,10 @@
                 "day": 30
             },
             "points": {
-                "alphatauri": 1,
-                "williams": 0,
-                "haas": 0,
-                "alpha_romeo": 0
+                "AlphaTauri": 1,
+                "Williams": 0,
+                "Haas": 0,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -73,10 +91,10 @@
                 "day": 7
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 0,
-                "haas": 1,
-                "alpha_romeo": 0
+                "AlphaTauri": 0,
+                "Williams": 0,
+                "Haas": 1,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -86,10 +104,10 @@
                 "day": 28
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 0,
-                "haas": 0,
-                "alpha_romeo": 0
+                "AlphaTauri": 0,
+                "Williams": 0,
+                "Haas": 0,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -99,10 +117,10 @@
                 "day": 4
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 0,
-                "haas": 0,
-                "alpha_romeo": 2
+                "AlphaTauri": 0,
+                "Williams": 0,
+                "Haas": 0,
+                "Alfa Romeo": 2
             }
         },
         {
@@ -112,10 +130,10 @@
                 "day": 18
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 6,
-                "haas": 0,
-                "alpha_romeo": 1
+                "AlphaTauri": 0,
+                "Williams": 6,
+                "Haas": 0,
+                "Alfa Romeo": 1
             }
         },
         {
@@ -125,10 +143,10 @@
                 "day": 2
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 0,
-                "haas": 3,
-                "alpha_romeo": 0
+                "AlphaTauri": 0,
+                "Williams": 0,
+                "Haas": 3,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -138,10 +156,10 @@
                 "day": 9
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 4,
-                "haas": 0,
-                "alpha_romeo": 0
+                "AlphaTauri": 0,
+                "Williams": 4,
+                "Haas": 0,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -151,10 +169,10 @@
                 "day": 23
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 0,
-                "haas": 0,
-                "alpha_romeo": 0
+                "AlphaTauri": 0,
+                "Williams": 0,
+                "Haas": 0,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -164,10 +182,10 @@
                 "day": 30
             },
             "points": {
-                "alphatauri": 1,
-                "williams": 0,
-                "haas": 0,
-                "alpha_romeo": 0
+                "AlphaTauri": 1,
+                "Williams": 0,
+                "Haas": 0,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -177,10 +195,10 @@
                 "day": 27
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 4,
-                "haas": 0,
-                "alpha_romeo": 0
+                "AlphaTauri": 0,
+                "Williams": 4,
+                "Haas": 0,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -190,10 +208,10 @@
                 "day": 3
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 6,
-                "haas": 0,
-                "alpha_romeo": 1
+                "AlphaTauri": 0,
+                "Williams": 6,
+                "Haas": 0,
+                "Alfa Romeo": 1
             }
         },
         {
@@ -203,10 +221,10 @@
                 "day": 17
             },
             "points": {
-                "alphatauri": 2,
-                "williams": 0,
-                "haas": 1,
-                "alpha_romeo": 0
+                "AlphaTauri": 2,
+                "Williams": 0,
+                "Haas": 1,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -216,10 +234,10 @@
                 "day": 24
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 0,
-                "haas": 0,
-                "alpha_romeo": 0
+                "AlphaTauri": 0,
+                "Williams": 0,
+                "Haas": 0,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -229,10 +247,10 @@
                 "day": 8
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 2,
-                "haas": 0,
-                "alpha_romeo": 6
+                "AlphaTauri": 0,
+                "Williams": 2,
+                "Haas": 0,
+                "Alfa Romeo": 6
             }
         },
         {
@@ -242,10 +260,10 @@
                 "day": 22
             },
             "points": {
-                "alphatauri": 5,
-                "williams": 2,
-                "haas": 0,
-                "alpha_romeo": 0
+                "AlphaTauri": 5,
+                "Williams": 2,
+                "Haas": 0,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -255,10 +273,10 @@
                 "day": 29
             },
             "points": {
-                "alphatauri": 6,
-                "williams": 2,
-                "haas": 0,
-                "alpha_romeo": 0
+                "AlphaTauri": 6,
+                "Williams": 2,
+                "Haas": 0,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -268,10 +286,10 @@
                 "day": 5
             },
             "points": {
-                "alphatauri": 5,
-                "williams": 0,
-                "haas": 0,
-                "alpha_romeo": 0
+                "AlphaTauri": 5,
+                "Williams": 0,
+                "Haas": 0,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -281,10 +299,10 @@
                 "day": 18
             },
             "points": {
-                "alphatauri": 0,
-                "williams": 0,
-                "haas": 0,
-                "alpha_romeo": 0
+                "AlphaTauri": 0,
+                "Williams": 0,
+                "Haas": 0,
+                "Alfa Romeo": 0
             }
         },
         {
@@ -294,10 +312,10 @@
                 "day": 26
             },
             "points": {
-                "alphatauri": 4,
-                "williams": 0,
-                "haas": 0,
-                "alpha_romeo": 0
+                "AlphaTauri": 4,
+                "Williams": 0,
+                "Haas": 0,
+                "Alfa Romeo": 0
             }
         }
     ]
