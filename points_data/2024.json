@@ -78,6 +78,20 @@
                 "Stake": 0,
                 "Alpine": 0
             }
+        },
+        {
+            "name": "japan",
+            "date": {
+                "month": 4,
+                "day": 7
+            },
+            "points": {
+                "RB": 1,
+                "Williams": 0,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 0
+            }
         }
     ]
 }
