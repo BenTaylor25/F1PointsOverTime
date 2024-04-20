@@ -92,6 +92,20 @@
                 "Stake": 0,
                 "Alpine": 0
             }
+        },
+        {
+            "name": "china",
+            "date": {
+                "month": 4,
+                "day": 20
+            },
+            "points": {
+                "RB": 0,
+                "Williams": 0,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 0
+            }
         }
     ]
 }
