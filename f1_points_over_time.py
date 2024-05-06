@@ -19,6 +19,26 @@ def highest_team_points(season) -> int:
 
     return highest
 
+def non_sprint_dates(dates: list[datetime]) -> list[datetime]:
+    sprint_dates = []
+
+    for i, date in enumerate(dates):
+        # Ignore last date.
+        if date == dates[-1]:
+            break
+
+        next_date = dates[i + 1]
+
+        days_between = (next_date - date).days
+
+        if days_between == 1:
+            sprint_dates.append(date)
+
+    # Filter sprint_dates from dates.
+    non_sprint_dates = [date for date in dates if date not in sprint_dates]
+
+    return non_sprint_dates
+
 if __name__ == "__main__":
     season = get_season_data()
     dates = season["dates"]
@@ -42,6 +62,7 @@ if __name__ == "__main__":
 
     # Format the x-labels.
     plt.gcf().autofmt_xdate()
+    plt.xticks(non_sprint_dates(dates))
 
     # Use whole numbers for y-axis.
     plt.yticks(np.arange(0, highest_team_points(season) + 1, 1.0))
