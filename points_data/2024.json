@@ -94,7 +94,7 @@
             }
         },
         {
-            "name": "china",
+            "name": "china sprint",
             "date": {
                 "month": 4,
                 "day": 20
@@ -102,7 +102,35 @@
             "points": {
                 "RB": 0,
                 "Williams": 0,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 0
+            }
+        },
+        {
+            "name": "china",
+            "date": {
+                "month": 4,
+                "day": 21
+            },
+            "points": {
+                "RB": 0,
+                "Williams": 0,
                 "Haas": 1,
+                "Stake": 0,
+                "Alpine": 0
+            }
+        },
+        {
+            "name": "miami sprint",
+            "date": {
+                "month": 5,
+                "day": 4
+            },
+            "points": {
+                "RB": 6,
+                "Williams": 0,
+                "Haas": 2,
                 "Stake": 0,
                 "Alpine": 0
             }
@@ -114,9 +142,9 @@
                 "day": 5
             },
             "points": {
-                "RB": 12,
+                "RB": 6,
                 "Williams": 0,
-                "Haas": 2,
+                "Haas": 0,
                 "Stake": 0,
                 "Alpine": 1
             }
