@@ -28,7 +28,7 @@ def non_sprint_dates(dates: list[datetime]) -> list[datetime]:
 # For y-axis formatting.
 def highest_team_points(season) -> int:
     """
-    Search a season team points
+    Search a season team points.
     """
     highest = 0
 

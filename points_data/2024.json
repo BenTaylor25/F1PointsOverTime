@@ -148,6 +148,20 @@
                 "Stake": 0,
                 "Alpine": 1
             }
+        },
+        {
+            "name": "Imola",
+            "date": {
+                "month": 5,
+                "day": 19
+            },
+            "points": {
+                "RB": 1,
+                "Williams": 0,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 0
+            }
         }
     ]
 }
