@@ -29,6 +29,7 @@ if __name__ == "__main__":
     if today < dates[-1]:
         plt.axvline(x=today, color='#000000', linestyle='--')
 
+    plt.title(season["year"])
 
     # Format the x-labels.
     plt.gcf().autofmt_xdate()
