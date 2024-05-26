@@ -20,7 +20,7 @@
     ],
     "weekends": [
         {
-            "name": "testing",
+            "name": "Testing",
             "date": {
                 "month": 2,
                 "day": 25
@@ -33,7 +33,7 @@
             }
         },
         {
-            "name": "bahrain",
+            "name": "Bahrain",
             "date": {
                 "month": 3,
                 "day": 5
@@ -46,7 +46,7 @@
             }
         },
         {
-            "name": "jeddah",
+            "name": "Jeddah",
             "date": {
                 "month": 3,
                 "day": 19
@@ -59,7 +59,7 @@
             }
         },
         {
-            "name": "australia",
+            "name": "Australia",
             "date": {
                 "month": 4,
                 "day": 2
@@ -72,7 +72,7 @@
             }
         },
         {
-            "name": "baku",
+            "name": "Baku",
             "date": {
                 "month": 4,
                 "day": 30
@@ -85,7 +85,7 @@
             }
         },
         {
-            "name": "miami",
+            "name": "Miami",
             "date": {
                 "month": 5,
                 "day": 7
@@ -98,7 +98,7 @@
             }
         },
         {
-            "name": "monaco",
+            "name": "Monaco",
             "date": {
                 "month": 5,
                 "day": 28
@@ -111,7 +111,7 @@
             }
         },
         {
-            "name": "spain",
+            "name": "Spain",
             "date": {
                 "month": 6,
                 "day": 4
@@ -124,7 +124,7 @@
             }
         },
         {
-            "name": "canada",
+            "name": "Canada",
             "date": {
                 "month": 6,
                 "day": 18
@@ -137,7 +137,7 @@
             }
         },
         {
-            "name": "austria",
+            "name": "Austria",
             "date": {
                 "month": 7,
                 "day": 2
@@ -150,7 +150,7 @@
             }
         },
         {
-            "name": "silverstone",
+            "name": "Silverstone",
             "date": {
                 "month": 7,
                 "day": 9
@@ -163,7 +163,7 @@
             }
         },
         {
-            "name": "hungary",
+            "name": "Hungary",
             "date": {
                 "month": 7,
                 "day": 23
@@ -176,7 +176,7 @@
             }
         },
         {
-            "name": "spa",
+            "name": "Spa",
             "date": {
                 "month": 7,
                 "day": 30
@@ -189,7 +189,7 @@
             }
         },
         {
-            "name": "zandvoort",
+            "name": "Zandvoort",
             "date": {
                 "month": 8,
                 "day": 27
@@ -202,7 +202,7 @@
             }
         },
         {
-            "name": "monza",
+            "name": "Monza",
             "date": {
                 "month": 9,
                 "day": 3
@@ -215,7 +215,7 @@
             }
         },
         {
-            "name": "singapore",
+            "name": "Singapore",
             "date": {
                 "month": 9,
                 "day": 17
@@ -228,7 +228,7 @@
             }
         },
         {
-            "name": "suzuka",
+            "name": "Suzuka",
             "date": {
                 "month": 9,
                 "day": 24
@@ -241,7 +241,7 @@
             }
         },
         {
-            "name": "qatar",
+            "name": "Qatar",
             "date": {
                 "month": 10,
                 "day": 8
@@ -254,7 +254,7 @@
             }
         },
         {
-            "name": "usa",
+            "name": "USA",
             "date": {
                 "month": 10,
                 "day": 22
@@ -267,7 +267,7 @@
             }
         },
         {
-            "name": "mexico",
+            "name": "Mexico",
             "date": {
                 "month": 10,
                 "day": 29
@@ -280,7 +280,7 @@
             }
         },
         {
-            "name": "brazil",
+            "name": "Brazil",
             "date": {
                 "month": 11,
                 "day": 5
@@ -293,7 +293,7 @@
             }
         },
         {
-            "name": "vegas",
+            "name": "Vegas",
             "date": {
                 "month": 11,
                 "day": 18
@@ -306,7 +306,7 @@
             }
         },
         {
-            "name": "abu_dhabi",
+            "name": "AbuDhabi",
             "date": {
                 "month": 11,
                 "day": 26

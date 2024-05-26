@@ -24,7 +24,7 @@
     ],
     "weekends": [
         {
-            "name": "testing",
+            "name": "Testing",
             "date": {
                 "month": 2,
                 "day": 23
@@ -38,7 +38,7 @@
             }
         },
         {
-            "name": "bahrain",
+            "name": "Bahrain",
             "date": {
                 "month": 3,
                 "day": 2
@@ -52,7 +52,7 @@
             }
         },
         {
-            "name": "saudi",
+            "name": "Saudi",
             "date": {
                 "month": 3,
                 "day": 9
@@ -66,7 +66,7 @@
             }
         },
         {
-            "name": "australia",
+            "name": "Australia",
             "date": {
                 "month": 3,
                 "day": 24
@@ -80,7 +80,7 @@
             }
         },
         {
-            "name": "japan",
+            "name": "Japan",
             "date": {
                 "month": 4,
                 "day": 7
@@ -94,7 +94,7 @@
             }
         },
         {
-            "name": "china sprint",
+            "name": "China Sprint",
             "date": {
                 "month": 4,
                 "day": 20
@@ -108,7 +108,7 @@
             }
         },
         {
-            "name": "china",
+            "name": "China",
             "date": {
                 "month": 4,
                 "day": 21
@@ -122,7 +122,7 @@
             }
         },
         {
-            "name": "miami sprint",
+            "name": "Miami Sprint",
             "date": {
                 "month": 5,
                 "day": 4
@@ -136,7 +136,7 @@
             }
         },
         {
-            "name": "miami",
+            "name": "Miami",
             "date": {
                 "month": 5,
                 "day": 5
