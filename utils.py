@@ -25,6 +25,15 @@ def non_sprint_dates(dates: list[datetime]) -> list[datetime]:
 
     return non_sprint_dates
 
+def non_sprint_dated_event_names(dated_event_names: list[str], dates: list[datetime]) -> list[str]:
+    non_sprint_dated_event_names: list[str] = []
+
+    for (dated_event_name, date) in zip(dated_event_names, dates):
+        if date in non_sprint_dates(dates):
+            non_sprint_dated_event_names.append(dated_event_name)
+
+    return non_sprint_dated_event_names
+
 # For y-axis formatting.
 def highest_team_points(season) -> int:
     """

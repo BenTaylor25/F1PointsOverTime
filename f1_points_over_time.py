@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 from data import get_season_data
-from utils import non_sprint_dates, highest_team_points
+from utils import non_sprint_dates, non_sprint_dated_event_names, highest_team_points
 
 PLACEMENT_START = datetime(2023, 7, 3)
 PLACEMENT_END = datetime(2024, 8, 2)
@@ -33,7 +33,10 @@ if __name__ == "__main__":
 
     # Format the x-labels.
     plt.gcf().autofmt_xdate()
-    plt.xticks(non_sprint_dates(dates))
+    plt.xticks(
+        ticks=non_sprint_dates(dates),
+        labels=non_sprint_dated_event_names(season["dated_event_names"], dates)
+    )
 
     # Use whole numbers for y-axis.
     plt.yticks(np.arange(0, highest_team_points(season) + 1, 1.0))

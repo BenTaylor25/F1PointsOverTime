@@ -43,6 +43,7 @@ def get_season_data():
         season = {
             "year": deserialised_json["year"],
             "dates": get_event_dates(deserialised_json),
+            "dated_event_names": get_dated_event_names(deserialised_json),
             "team_names": get_team_names(deserialised_json),
             "team_colours": get_team_colours(deserialised_json),
             "team_points": get_team_points(deserialised_json)
@@ -59,6 +60,19 @@ def get_event_dates(deserialised_json) -> list[datetime]:
         day = event["date"]["day"]
 
         dates.append(datetime(year, month, day))
+
+    return dates
+
+def get_dated_event_names(deserialised_json) -> list[str]:
+    year = deserialised_json["year"]
+
+    dates = []
+    for event in deserialised_json["weekends"]:
+        event_name = event["name"]
+        month = event["date"]["month"]
+        day = event["date"]["day"]
+
+        dates.append(f"{event_name} ({day}/{month}/{year})")
 
     return dates
 
