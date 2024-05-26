@@ -162,6 +162,20 @@
                 "Stake": 0,
                 "Alpine": 0
             }
+        },
+        {
+            "name": "Monaco",
+            "date": {
+                "month": 5,
+                "day": 26
+            },
+            "points": {
+                "RB": 4,
+                "Williams": 2,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 1
+            }
         }
     ]
 }
