@@ -20,6 +20,10 @@
         {
             "name": "Alpine",
             "hex_colour": "#d07ac0"
+        },
+        {
+            "name": "Aston Martin",
+            "hex_colour": "#0b4a5f"
         }
     ],
     "weekends": [
@@ -34,7 +38,8 @@
                 "Williams": 0,
                 "Haas": 0,
                 "Stake": 0,
-                "Alpine": 0
+                "Alpine": 0,
+                "Aston Martin": 0
             }
         },
         {
@@ -48,7 +53,8 @@
                 "Williams": 0,
                 "Haas": 0,
                 "Stake": 0,
-                "Alpine": 0
+                "Alpine": 0,
+                "Aston Martin": 3
             }
         },
         {
@@ -62,7 +68,8 @@
                 "Williams": 0,
                 "Haas": 1,
                 "Stake": 0,
-                "Alpine": 0
+                "Alpine": 0,
+                "Aston Martin": 10
             }
         },
         {
@@ -76,7 +83,8 @@
                 "Williams": 0,
                 "Haas": 3,
                 "Stake": 0,
-                "Alpine": 0
+                "Alpine": 0,
+                "Aston Martin": 12
             }
         },
         {
@@ -90,7 +98,8 @@
                 "Williams": 0,
                 "Haas": 0,
                 "Stake": 0,
-                "Alpine": 0
+                "Alpine": 0,
+                "Aston Martin": 8
             }
         },
         {
@@ -104,7 +113,8 @@
                 "Williams": 0,
                 "Haas": 0,
                 "Stake": 0,
-                "Alpine": 0
+                "Alpine": 0,
+                "Aston Martin": 0
             }
         },
         {
@@ -118,7 +128,8 @@
                 "Williams": 0,
                 "Haas": 1,
                 "Stake": 0,
-                "Alpine": 0
+                "Alpine": 0,
+                "Aston Martin": 7
             }
         },
         {
@@ -132,7 +143,8 @@
                 "Williams": 0,
                 "Haas": 2,
                 "Stake": 0,
-                "Alpine": 0
+                "Alpine": 0,
+                "Aston Martin": 0
             }
         },
         {
@@ -146,7 +158,8 @@
                 "Williams": 0,
                 "Haas": 0,
                 "Stake": 0,
-                "Alpine": 1
+                "Alpine": 1,
+                "Aston Martin": 2
             }
         },
         {
@@ -160,7 +173,8 @@
                 "Williams": 0,
                 "Haas": 0,
                 "Stake": 0,
-                "Alpine": 0
+                "Alpine": 0,
+                "Aston Martin": 2
             }
         },
         {
@@ -174,7 +188,8 @@
                 "Williams": 2,
                 "Haas": 0,
                 "Stake": 0,
-                "Alpine": 1
+                "Alpine": 1,
+                "Aston Martin": 0
             }
         }
     ]
