@@ -3,19 +3,23 @@
     "teams": [
         {
             "name": "AlphaTauri",
-            "hex_colour": "#010f1a"
+            "hex_colour": "#010f1a",
+            "draw_on_graph": true
         },
         {
             "name": "Williams",
-            "hex_colour": "#00a1dd"
+            "hex_colour": "#00a1dd",
+            "draw_on_graph": true
         },
         {
             "name": "Alfa Romeo",
-            "hex_colour": "#720a1e"
+            "hex_colour": "#720a1e",
+            "draw_on_graph": true
         },
         {
             "name": "Haas",
-            "hex_colour": "#db2416"
+            "hex_colour": "#db2416",
+            "draw_on_graph": true
         }
     ],
     "weekends": [

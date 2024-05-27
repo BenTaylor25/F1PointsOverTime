@@ -13,7 +13,7 @@ if __name__ == "__main__":
     season = get_season_data()
     dates = season["dates"]
 
-    for team_name in season["team_names"]:
+    for team_name in season["team_names_to_show"]:
         team_colour = season["team_colours"][team_name]
         team_points = season["team_points"][team_name]
 

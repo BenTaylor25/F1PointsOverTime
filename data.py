@@ -45,6 +45,7 @@ def get_season_data():
             "dates": get_event_dates(deserialised_json),
             "dated_event_names": get_dated_event_names(deserialised_json),
             "team_names": get_team_names(deserialised_json),
+            "team_names_to_show": get_team_names_to_show(deserialised_json),
             "team_colours": get_team_colours(deserialised_json),
             "team_points": get_team_points(deserialised_json)
         }
@@ -106,6 +107,15 @@ def get_team_names(deserialised_json) -> list[str]:
 
     for team in deserialised_json["teams"]:
         teams.append(team["name"])
+
+    return teams
+
+def get_team_names_to_show(deserialised_json) -> list[str]:
+    teams = []
+
+    for team in deserialised_json["teams"]:
+        if team["draw_on_graph"]:
+            teams.append(team["name"])
 
     return teams
 
