@@ -2,36 +2,6 @@
     "year": 2024,
     "teams": [
         {
-            "name": "Racing Bulls",
-            "hex_colour": "#132faa",
-            "draw_on_graph": true
-        },
-        {
-            "name": "Williams",
-            "hex_colour": "#00a1dd",
-            "draw_on_graph": true
-        },
-        {
-            "name": "Stake",
-            "hex_colour": "#00e400",
-            "draw_on_graph": true
-        },
-        {
-            "name": "Haas",
-            "hex_colour": "#db2416",
-            "draw_on_graph": true
-        },
-        {
-            "name": "Alpine",
-            "hex_colour": "#d07ac0",
-            "draw_on_graph": true
-        },
-        {
-            "name": "Aston Martin",
-            "hex_colour": "#0b4a5f",
-            "draw_on_graph": true
-        },
-        {
             "name": "Red Bull",
             "hex_colour": "#011629",
             "draw_on_graph": true
@@ -49,6 +19,36 @@
         {
             "name": "Mercedes",
             "hex_colour": "#1dc5b4",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Aston Martin",
+            "hex_colour": "#0b4a5f",
+            "draw_on_graph": true
+        }, 
+        {
+            "name": "Racing Bulls",
+            "hex_colour": "#132faa",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Williams",
+            "hex_colour": "#00a1dd",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Haas",
+            "hex_colour": "#db2416",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Alpine",
+            "hex_colour": "#d07ac0",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Stake",
+            "hex_colour": "#00e400",
             "draw_on_graph": true
         }
     ],
