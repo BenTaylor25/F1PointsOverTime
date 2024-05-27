@@ -66,10 +66,10 @@
                 "Stake": 0,
                 "Alpine": 0,
                 "Aston Martin": 0,
-                "Red Bull": -10,
-                "Ferrari": -10,
-                "McLaren": -10,
-                "Mercedes": -10
+                "Red Bull": 0,
+                "Ferrari": 0,
+                "McLaren": 0,
+                "Mercedes": 0
             }
         },
         {
@@ -85,10 +85,10 @@
                 "Stake": 0,
                 "Alpine": 0,
                 "Aston Martin": 3,
-                "Red Bull": -10,
-                "Ferrari": -10,
-                "McLaren": -10,
-                "Mercedes": -10
+                "Red Bull": 44,
+                "Ferrari": 27,
+                "McLaren": 12,
+                "Mercedes": 16
             }
         },
         {
@@ -104,10 +104,10 @@
                 "Stake": 0,
                 "Alpine": 0,
                 "Aston Martin": 10,
-                "Red Bull": -10,
-                "Ferrari": -10,
-                "McLaren": -10,
-                "Mercedes": -10
+                "Red Bull": 43,
+                "Ferrari": 22,
+                "McLaren": 16,
+                "Mercedes": 10
             }
         },
         {
@@ -123,10 +123,10 @@
                 "Stake": 0,
                 "Alpine": 0,
                 "Aston Martin": 12,
-                "Red Bull": -10,
-                "Ferrari": -10,
-                "McLaren": -10,
-                "Mercedes": -10
+                "Red Bull": 10,
+                "Ferrari": 44,
+                "McLaren": 27,
+                "Mercedes": 0
             }
         },
         {
@@ -142,10 +142,10 @@
                 "Stake": 0,
                 "Alpine": 0,
                 "Aston Martin": 8,
-                "Red Bull": -10,
-                "Ferrari": -10,
-                "McLaren": -10,
-                "Mercedes": -10
+                "Red Bull": 44,
+                "Ferrari": 27,
+                "McLaren": 14,
+                "Mercedes": 8
             }
         },
         {
@@ -161,10 +161,10 @@
                 "Stake": 0,
                 "Alpine": 0,
                 "Aston Martin": 0,
-                "Red Bull": -10,
-                "Ferrari": -10,
-                "McLaren": -10,
-                "Mercedes": -10
+                "Red Bull": 14,
+                "Ferrari": 9,
+                "McLaren": 5,
+                "Mercedes": 8
             }
         },
         {
@@ -180,10 +180,10 @@
                 "Stake": 0,
                 "Alpine": 0,
                 "Aston Martin": 7,
-                "Red Bull": -10,
-                "Ferrari": -10,
-                "McLaren": -10,
-                "Mercedes": -10
+                "Red Bull": 40,
+                "Ferrari": 22,
+                "McLaren": 22,
+                "Mercedes": 10
             }
         },
         {
@@ -199,10 +199,10 @@
                 "Stake": 0,
                 "Alpine": 0,
                 "Aston Martin": 0,
-                "Red Bull": -10,
-                "Ferrari": -10,
-                "McLaren": -10,
-                "Mercedes": -10
+                "Red Bull": 14,
+                "Ferrari": 11,
+                "McLaren": 3,
+                "Mercedes": 0
             }
         },
         {
@@ -218,10 +218,10 @@
                 "Stake": 0,
                 "Alpine": 1,
                 "Aston Martin": 2,
-                "Red Bull": -10,
-                "Ferrari": -10,
-                "McLaren": -10,
-                "Mercedes": -10
+                "Red Bull": 30,
+                "Ferrari": 25,
+                "McLaren": 25,
+                "Mercedes": 12
             }
         },
         {
@@ -237,10 +237,10 @@
                 "Stake": 0,
                 "Alpine": 0,
                 "Aston Martin": 2,
-                "Red Bull": -10,
-                "Ferrari": -10,
-                "McLaren": -10,
-                "Mercedes": -10
+                "Red Bull": 29,
+                "Ferrari": 25,
+                "McLaren": 30,
+                "Mercedes": 15
             }
         },
         {
@@ -256,10 +256,10 @@
                 "Stake": 0,
                 "Alpine": 1,
                 "Aston Martin": 0,
-                "Red Bull": -10,
-                "Ferrari": -10,
-                "McLaren": -10,
-                "Mercedes": -10
+                "Red Bull": 8,
+                "Ferrari": 40,
+                "McLaren": 30,
+                "Mercedes": 17
             }
         }
     ]
