@@ -30,6 +30,26 @@
             "name": "Aston Martin",
             "hex_colour": "#0b4a5f",
             "draw_on_graph": true
+        },
+        {
+            "name": "Red Bull",
+            "hex_colour": "#011629",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Ferrari",
+            "hex_colour": "#d80001",
+            "draw_on_graph": true
+        },
+        {
+            "name": "McLaren",
+            "hex_colour": "#fe7b07",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Mercedes",
+            "hex_colour": "#1dc5b4",
+            "draw_on_graph": true
         }
     ],
     "weekends": [
@@ -45,7 +65,11 @@
                 "Haas": 0,
                 "Stake": 0,
                 "Alpine": 0,
-                "Aston Martin": 0
+                "Aston Martin": 0,
+                "Red Bull": -10,
+                "Ferrari": -10,
+                "McLaren": -10,
+                "Mercedes": -10
             }
         },
         {
@@ -60,7 +84,11 @@
                 "Haas": 0,
                 "Stake": 0,
                 "Alpine": 0,
-                "Aston Martin": 3
+                "Aston Martin": 3,
+                "Red Bull": -10,
+                "Ferrari": -10,
+                "McLaren": -10,
+                "Mercedes": -10
             }
         },
         {
@@ -75,7 +103,11 @@
                 "Haas": 1,
                 "Stake": 0,
                 "Alpine": 0,
-                "Aston Martin": 10
+                "Aston Martin": 10,
+                "Red Bull": -10,
+                "Ferrari": -10,
+                "McLaren": -10,
+                "Mercedes": -10
             }
         },
         {
@@ -90,7 +122,11 @@
                 "Haas": 3,
                 "Stake": 0,
                 "Alpine": 0,
-                "Aston Martin": 12
+                "Aston Martin": 12,
+                "Red Bull": -10,
+                "Ferrari": -10,
+                "McLaren": -10,
+                "Mercedes": -10
             }
         },
         {
@@ -105,7 +141,11 @@
                 "Haas": 0,
                 "Stake": 0,
                 "Alpine": 0,
-                "Aston Martin": 8
+                "Aston Martin": 8,
+                "Red Bull": -10,
+                "Ferrari": -10,
+                "McLaren": -10,
+                "Mercedes": -10
             }
         },
         {
@@ -120,7 +160,11 @@
                 "Haas": 0,
                 "Stake": 0,
                 "Alpine": 0,
-                "Aston Martin": 0
+                "Aston Martin": 0,
+                "Red Bull": -10,
+                "Ferrari": -10,
+                "McLaren": -10,
+                "Mercedes": -10
             }
         },
         {
@@ -135,7 +179,11 @@
                 "Haas": 1,
                 "Stake": 0,
                 "Alpine": 0,
-                "Aston Martin": 7
+                "Aston Martin": 7,
+                "Red Bull": -10,
+                "Ferrari": -10,
+                "McLaren": -10,
+                "Mercedes": -10
             }
         },
         {
@@ -150,7 +198,11 @@
                 "Haas": 2,
                 "Stake": 0,
                 "Alpine": 0,
-                "Aston Martin": 0
+                "Aston Martin": 0,
+                "Red Bull": -10,
+                "Ferrari": -10,
+                "McLaren": -10,
+                "Mercedes": -10
             }
         },
         {
@@ -165,7 +217,11 @@
                 "Haas": 0,
                 "Stake": 0,
                 "Alpine": 1,
-                "Aston Martin": 2
+                "Aston Martin": 2,
+                "Red Bull": -10,
+                "Ferrari": -10,
+                "McLaren": -10,
+                "Mercedes": -10
             }
         },
         {
@@ -180,7 +236,11 @@
                 "Haas": 0,
                 "Stake": 0,
                 "Alpine": 0,
-                "Aston Martin": 2
+                "Aston Martin": 2,
+                "Red Bull": -10,
+                "Ferrari": -10,
+                "McLaren": -10,
+                "Mercedes": -10
             }
         },
         {
@@ -195,7 +255,11 @@
                 "Haas": 0,
                 "Stake": 0,
                 "Alpine": 1,
-                "Aston Martin": 0
+                "Aston Martin": 0,
+                "Red Bull": -10,
+                "Ferrari": -10,
+                "McLaren": -10,
+                "Mercedes": -10
             }
         }
     ]
