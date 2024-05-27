@@ -1,15 +1,45 @@
 {
     "year": 2023,
-    "y_axis_increment": 1.0,
+    "y_axis_increment": 10.0,
     "teams": [
         {
-            "name": "AlphaTauri",
-            "hex_colour": "#010f1a",
+            "name": "Red Bull",
+            "hex_colour": "#011629",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Mercedes",
+            "hex_colour": "#1dc5b4",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Ferrari",
+            "hex_colour": "#d80001",
+            "draw_on_graph": true
+        },
+        {
+            "name": "McLaren",
+            "hex_colour": "#fe7b07",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Aston Martin",
+            "hex_colour": "#0b4a5f",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Alpine",
+            "hex_colour": "#d07ac0",
             "draw_on_graph": true
         },
         {
             "name": "Williams",
             "hex_colour": "#00a1dd",
+            "draw_on_graph": true
+        },
+        {
+            "name": "AlphaTauri",
+            "hex_colour": "#010f1a",
             "draw_on_graph": true
         },
         {
@@ -34,7 +64,13 @@
                 "AlphaTauri": 0,
                 "Williams": 0,
                 "Haas": 0,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 0,
+                "Ferrari": 0,
+                "Mercedes": 0,
+                "McLaren": 0,
+                "Aston Martin": 0,
+                "Alpine": 0
             }
         },
         {
@@ -47,7 +83,13 @@
                 "AlphaTauri": 0,
                 "Williams": 1,
                 "Haas": 0,
-                "Alfa Romeo": 4
+                "Alfa Romeo": 4,
+                "Red Bull": 43,
+                "Ferrari": 12,
+                "Mercedes": 16,
+                "McLaren": 0,
+                "Aston Martin": 23,
+                "Alpine": 2
             }
         },
         {
@@ -60,7 +102,13 @@
                 "AlphaTauri": 0,
                 "Williams": 0,
                 "Haas": 1,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 44,
+                "Ferrari": 14,
+                "Mercedes": 22,
+                "McLaren": 0,
+                "Aston Martin": 15,
+                "Alpine": 6
             }
         },
         {
@@ -73,7 +121,13 @@
                 "AlphaTauri": 1,
                 "Williams": 0,
                 "Haas": 6,
-                "Alfa Romeo": 2
+                "Alfa Romeo": 2,
+                "Red Bull": 36,
+                "Ferrari": 0,
+                "Mercedes": 18,
+                "McLaren": 12,
+                "Aston Martin": 27,
+                "Alpine": 0
             }
         },
         {
@@ -86,7 +140,13 @@
                 "AlphaTauri": 1,
                 "Williams": 0,
                 "Haas": 0,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 57,
+                "Ferrari": 36,
+                "Mercedes": 20,
+                "McLaren": 2,
+                "Aston Martin": 22,
+                "Alpine": 0
             }
         },
         {
@@ -99,7 +159,13 @@
                 "AlphaTauri": 0,
                 "Williams": 0,
                 "Haas": 1,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 44,
+                "Ferrari": 16,
+                "Mercedes": 20,
+                "McLaren": 0,
+                "Aston Martin": 15,
+                "Alpine": 6
             }
         },
         {
@@ -112,7 +178,13 @@
                 "AlphaTauri": 0,
                 "Williams": 0,
                 "Haas": 0,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 25,
+                "Ferrari": 12,
+                "Mercedes": 23,
+                "McLaren": 3,
+                "Aston Martin": 18,
+                "Alpine": 21
             }
         },
         {
@@ -125,7 +197,13 @@
                 "AlphaTauri": 0,
                 "Williams": 0,
                 "Haas": 0,
-                "Alfa Romeo": 2
+                "Alfa Romeo": 2,
+                "Red Bull": 38,
+                "Ferrari": 10,
+                "Mercedes": 33,
+                "McLaren": 0,
+                "Aston Martin": 14,
+                "Alpine": 5
             }
         },
         {
@@ -138,7 +216,13 @@
                 "AlphaTauri": 0,
                 "Williams": 6,
                 "Haas": 0,
-                "Alfa Romeo": 1
+                "Alfa Romeo": 1,
+                "Red Bull": 34,
+                "Ferrari": 22,
+                "Mercedes": 15,
+                "McLaren": 0,
+                "Aston Martin": 20,
+                "Alpine": 4
             }
         },
         {
@@ -151,7 +235,13 @@
                 "AlphaTauri": 0,
                 "Williams": 0,
                 "Haas": 3,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 56,
+                "Ferrari": 32,
+                "Mercedes": 11,
+                "McLaren": 12,
+                "Aston Martin": 21,
+                "Alpine": 3
             }
         },
         {
@@ -164,7 +254,13 @@
                 "AlphaTauri": 0,
                 "Williams": 4,
                 "Haas": 0,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 34,
+                "Ferrari": 3,
+                "Mercedes": 25,
+                "McLaren": 30,
+                "Aston Martin": 6,
+                "Alpine": 0
             }
         },
         {
@@ -177,7 +273,13 @@
                 "AlphaTauri": 0,
                 "Williams": 0,
                 "Haas": 0,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 41,
+                "Ferrari": 10,
+                "Mercedes": 20,
+                "McLaren": 28,
+                "Aston Martin": 3,
+                "Alpine": 0
             }
         },
         {
@@ -190,7 +292,13 @@
                 "AlphaTauri": 1,
                 "Williams": 0,
                 "Haas": 0,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 51,
+                "Ferrari": 24,
+                "Mercedes": 24,
+                "McLaren": 16,
+                "Aston Martin": 12,
+                "Alpine": 10
             }
         },
         {
@@ -203,7 +311,13 @@
                 "AlphaTauri": 0,
                 "Williams": 4,
                 "Haas": 0,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 37,
+                "Ferrari": 10,
+                "Mercedes": 8,
+                "McLaren": 8,
+                "Aston Martin": 19,
+                "Alpine": 16
             }
         },
         {
@@ -216,7 +330,13 @@
                 "AlphaTauri": 0,
                 "Williams": 6,
                 "Haas": 0,
-                "Alfa Romeo": 1
+                "Alfa Romeo": 1,
+                "Red Bull": 43,
+                "Ferrari": 27,
+                "Mercedes": 18,
+                "McLaren": 4,
+                "Aston Martin": 2,
+                "Alpine": 0
             }
         },
         {
@@ -229,7 +349,13 @@
                 "AlphaTauri": 2,
                 "Williams": 0,
                 "Haas": 1,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 14,
+                "Ferrari": 37,
+                "Mercedes": 16,
+                "McLaren": 24,
+                "Aston Martin": 0,
+                "Alpine": 8
             }
         },
         {
@@ -242,7 +368,13 @@
                 "AlphaTauri": 0,
                 "Williams": 0,
                 "Haas": 0,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 26,
+                "Ferrari": 20,
+                "Mercedes": 16,
+                "McLaren": 33,
+                "Aston Martin": 4,
+                "Alpine": 3
             }
         },
         {
@@ -255,7 +387,13 @@
                 "AlphaTauri": 0,
                 "Williams": 2,
                 "Haas": 0,
-                "Alfa Romeo": 6
+                "Alfa Romeo": 6,
+                "Red Bull": 34,
+                "Ferrari": 13,
+                "Mercedes": 21,
+                "McLaren": 47,
+                "Aston Martin": 9,
+                "Alpine": 6
             }
         },
         {
@@ -268,7 +406,13 @@
                 "AlphaTauri": 5,
                 "Williams": 2,
                 "Haas": 0,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 49,
+                "Ferrari": 24,
+                "Mercedes": 18,
+                "McLaren": 23,
+                "Aston Martin": 6,
+                "Alpine": 10
             }
         },
         {
@@ -281,7 +425,13 @@
                 "AlphaTauri": 6,
                 "Williams": 2,
                 "Haas": 0,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 25,
+                "Ferrari": 27,
+                "Mercedes": 27,
+                "McLaren": 14,
+                "Aston Martin": 0,
+                "Alpine": 1
             }
         },
         {
@@ -294,7 +444,13 @@
                 "AlphaTauri": 5,
                 "Williams": 0,
                 "Haas": 0,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 51,
+                "Ferrari": 13,
+                "Mercedes": 11,
+                "McLaren": 26,
+                "Aston Martin": 25,
+                "Alpine": 7
             }
         },
         {
@@ -307,7 +463,13 @@
                 "AlphaTauri": 0,
                 "Williams": 0,
                 "Haas": 0,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 40,
+                "Ferrari": 26,
+                "Mercedes": 10,
+                "McLaren": 2,
+                "Aston Martin": 12,
+                "Alpine": 12
             }
         },
         {
@@ -320,7 +482,13 @@
                 "AlphaTauri": 4,
                 "Williams": 0,
                 "Haas": 0,
-                "Alfa Romeo": 0
+                "Alfa Romeo": 0,
+                "Red Bull": 38,
+                "Ferrari": 18,
+                "Mercedes": 17,
+                "McLaren": 18,
+                "Aston Martin": 7,
+                "Alpine": 0
             }
         }
     ]
