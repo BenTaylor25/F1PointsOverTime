@@ -39,7 +39,7 @@ if __name__ == "__main__":
     )
 
     # Use whole numbers for y-axis.
-    plt.yticks(np.arange(0, highest_team_points(season) + 1, 1.0))
+    plt.yticks(np.arange(0, highest_team_points(season) + 1, season["y_axis_increment"]))
 
     plt.legend()
     plt.show()

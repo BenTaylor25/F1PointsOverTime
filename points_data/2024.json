@@ -1,5 +1,6 @@
 {
     "year": 2024,
+    "y_axis_increment": 10.0,
     "teams": [
         {
             "name": "Red Bull",

@@ -42,6 +42,7 @@ def get_season_data():
 
         season = {
             "year": deserialised_json["year"],
+            "y_axis_increment": deserialised_json["y_axis_increment"],
             "dates": get_event_dates(deserialised_json),
             "dated_event_names": get_dated_event_names(deserialised_json),
             "team_names": get_team_names(deserialised_json),
