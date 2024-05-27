@@ -41,7 +41,7 @@ def highest_team_points(season) -> int:
     """
     highest = 0
 
-    for team_name in season["team_names"]:
+    for team_name in season["team_names_to_show"]:
         cum_team_points = season["team_points"][team_name]
         team_highest = cum_team_points[-1]
 
