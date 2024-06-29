@@ -300,6 +300,25 @@
                 "McLaren": 25,
                 "Mercedes": 27
             }
+        },
+        {
+            "name": "Austria Sprint",
+            "date": {
+                "month": 6,
+                "day": 29
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 0,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 9,
+                "Ferrari": 6,
+                "McLaren": 13,
+                "Mercedes": 8
+            }
         }
     ]
 }
