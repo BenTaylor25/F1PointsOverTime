@@ -9,8 +9,10 @@ from utils import non_sprint_dates, non_sprint_dated_event_names, highest_team_p
 PLACEMENT_START = datetime(2023, 7, 3)
 PLACEMENT_END = datetime(2024, 8, 2)
 
+ALWAYS_SHOW_ALL_TEAMS = False
+
 if __name__ == "__main__":
-    season = get_season_data()
+    season = get_season_data(ALWAYS_SHOW_ALL_TEAMS)
     dates = season["dates"]
 
     for team_name in season["team_names_to_show"]:

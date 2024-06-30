@@ -32,7 +32,7 @@ def get_season_filename() -> str:
         else:
             return user_filename
 
-def get_season_data():
+def get_season_data(always_show_all_teams: bool):
     season_filename = get_season_filename()
     filepath = f"{DATA_PATH}/{season_filename}"
 
@@ -46,7 +46,7 @@ def get_season_data():
             "dates": get_event_dates(deserialised_json),
             "dated_event_names": get_dated_event_names(deserialised_json),
             "team_names": get_team_names(deserialised_json),
-            "team_names_to_show": get_team_names_to_show(deserialised_json),
+            "team_names_to_show": get_team_names_to_show(deserialised_json, always_show_all_teams),
             "team_colours": get_team_colours(deserialised_json),
             "team_points": get_team_points(deserialised_json)
         }
@@ -111,7 +111,10 @@ def get_team_names(deserialised_json) -> list[str]:
 
     return teams
 
-def get_team_names_to_show(deserialised_json) -> list[str]:
+def get_team_names_to_show(deserialised_json, always_show_all_teams: bool) -> list[str]:
+    if always_show_all_teams:
+        return get_team_names(deserialised_json)
+
     teams = []
 
     for team in deserialised_json["teams"]:
