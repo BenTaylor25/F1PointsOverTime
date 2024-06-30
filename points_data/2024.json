@@ -319,6 +319,25 @@
                 "McLaren": 13,
                 "Mercedes": 8
             }
+        },
+        {
+            "name": "Austria",
+            "date": {
+                "month": 6,
+                "day": 30
+            },
+            "points": {
+                "Racing Bulls": 2,
+                "Williams": 0,
+                "Haas": 10,
+                "Stake": 0,
+                "Alpine": 1,
+                "Aston Martin": 0,
+                "Red Bull": 6,
+                "Ferrari": 15,
+                "McLaren": 18,
+                "Mercedes": 37
+            }
         }
     ]
 }
