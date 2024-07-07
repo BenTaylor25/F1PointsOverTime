@@ -338,6 +338,25 @@
                 "McLaren": 18,
                 "Mercedes": 37
             }
+        },
+        {
+            "name": "Silverstone",
+            "date": {
+                "month": 7,
+                "day": 7
+            },
+            "points": {
+                "Racing Bulls": 1,
+                "Williams": 2,
+                "Haas": 8,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 10,
+                "Red Bull": 18,
+                "Ferrari": 11,
+                "McLaren": 27,
+                "Mercedes": 25
+            }
         }
     ]
 }
