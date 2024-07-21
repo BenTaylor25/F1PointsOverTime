@@ -357,6 +357,25 @@
                 "McLaren": 27,
                 "Mercedes": 25
             }
+        },
+        {
+            "name": "Hungary",
+            "date": {
+                "month": 7,
+                "day": 21
+            },
+            "points": {
+                "Racing Bulls": 2,
+                "Williams": 0,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 1,
+                "Red Bull": 16,
+                "Ferrari": 20,
+                "McLaren": 43,
+                "Mercedes": 20
+            }
         }
     ]
 }
