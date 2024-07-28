@@ -1,6 +1,6 @@
 {
     "year": 2024,
-    "y_axis_increment": 2.0,
+    "y_axis_increment": 5.0,
     "teams": [
         {
             "name": "Red Bull",
@@ -384,16 +384,16 @@
                 "day": 28
             },
             "points": {
-                "Racing Bulls": 0,
+                "Racing Bulls": 1,
                 "Williams": 0,
                 "Haas": 0,
                 "Stake": 0,
-                "Alpine": 1,
-                "Aston Martin": 2,
-                "Red Bull": 15,
-                "Ferrari": 18,
-                "McLaren": 23,
-                "Mercedes": 43
+                "Alpine": 2,
+                "Aston Martin": 4,
+                "Red Bull": 19,
+                "Ferrari": 23,
+                "McLaren": 28,
+                "Mercedes": 18
             }
         }
     ]
