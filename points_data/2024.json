@@ -395,6 +395,25 @@
                 "McLaren": 28,
                 "Mercedes": 18
             }
+        },
+        {
+            "name": "Zandvoort",
+            "date": {
+                "month": 8,
+                "day": 25
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 0,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 2,
+                "Aston Martin": 1,
+                "Red Bull": 26,
+                "Ferrari": 25,
+                "McLaren": 38,
+                "Mercedes": 10
+            }
         }
     ]
 }
