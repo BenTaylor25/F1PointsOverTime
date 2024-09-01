@@ -414,6 +414,25 @@
                 "McLaren": 38,
                 "Mercedes": 10
             }
+        },
+        {
+            "name": "Monza",
+            "date": {
+                "month": 9,
+                "day": 1
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 2,
+                "Haas": 1,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 12,
+                "Ferrari": 37,
+                "McLaren": 24,
+                "Mercedes": 16
+            }
         }
     ]
 }
