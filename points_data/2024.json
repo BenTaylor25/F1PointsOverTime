@@ -433,6 +433,25 @@
                 "McLaren": 24,
                 "Mercedes": 16
             }
+        },
+        {
+            "name": "Baku",
+            "date": {
+                "month": 9,
+                "day": 15
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 10,
+                "Haas": 1,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 8,
+                "Red Bull": 10,
+                "Ferrari": 18,
+                "McLaren": 38,
+                "Mercedes": 17
+            }
         }
     ]
 }
