@@ -452,6 +452,25 @@
                 "McLaren": 38,
                 "Mercedes": 17
             }
+        },
+        {
+            "name": "Singapore",
+            "date": {
+                "month": 9,
+                "day": 22
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 0,
+                "Haas": 2,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 4,
+                "Red Bull": 19,
+                "Ferrari": 16,
+                "McLaren": 40,
+                "Mercedes": 20
+            }
         }
     ]
 }
