@@ -10,8 +10,8 @@ The dotted vertical line is placed at 3/7/2023, the date I started at Scuderia A
 ![2023 full](./Docs/images/2023Full.png)
 2023 Season with all teams.
 
-![2024 bottom six after Spain](./Docs//images/2024BottomSixAfterSpain.png)
-2024 season bottom 6 teams so far (just after the Canada GP).
+![2024 bottom six after Singapore](./Docs//images/2024BottomSixAfterSingapore.png)
+2024 season bottom 6 teams so far (just after the Singapore GP).
 
-![2024 full after Spain](./Docs/images/2024FullAfterSpain.png)
+![2024 full after Singapore](./Docs/images/2024FullAfterSingapore.png)
 2024 season so far with all teams.
