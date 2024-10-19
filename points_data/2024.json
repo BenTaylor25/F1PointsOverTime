@@ -471,6 +471,25 @@
                 "McLaren": 40,
                 "Mercedes": 20
             }
+        },
+        {
+            "name": "USA Sprint",
+            "date": {
+                "month": 10,
+                "day": 19
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 0,
+                "Haas": 3,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 8,
+                "Ferrari": 12,
+                "McLaren": 6,
+                "Mercedes": 7
+            }
         }
     ]
 }
