@@ -490,6 +490,25 @@
                 "McLaren": 6,
                 "Mercedes": 7
             }
+        },
+        {
+            "name": "USA",
+            "date": {
+                "month": 10,
+                "day": 20
+            },
+            "points": {
+                "Racing Bulls": 2,
+                "Williams": 1,
+                "Haas": 4,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 21,
+                "Ferrari": 43,
+                "McLaren": 22,
+                "Mercedes": 8
+            }
         }
     ]
 }
