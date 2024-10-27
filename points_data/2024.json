@@ -509,6 +509,25 @@
                 "McLaren": 22,
                 "Mercedes": 8
             }
+        },
+        {
+            "name": "Mexico",
+            "date": {
+                "month": 10,
+                "day": 27
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 0,
+                "Haas": 8,
+                "Stake": 0,
+                "Alpine": 1,
+                "Aston Martin": 0,
+                "Red Bull": 8,
+                "Ferrari": 41,
+                "McLaren": 22,
+                "Mercedes": 22
+            }
         }
     ]
 }
