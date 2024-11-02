@@ -528,6 +528,25 @@
                 "McLaren": 22,
                 "Mercedes": 22
             }
+        },
+        {
+            "name": "Brazil Sprint",
+            "date": {
+                "month": 11,
+                "day": 2
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 0,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 2,
+                "Aston Martin": 0,
+                "Red Bull": 7,
+                "Ferrari": 9,
+                "McLaren": 15,
+                "Mercedes": 3
+            }
         }
     ]
 }
