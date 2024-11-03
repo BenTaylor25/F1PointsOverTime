@@ -547,6 +547,25 @@
                 "McLaren": 15,
                 "Mercedes": 3
             }
+        },
+        {
+            "name": "Brazil",
+            "date": {
+                "month": 11,
+                "day": 3
+            },
+            "points": {
+                "Racing Bulls": 8,
+                "Williams": 0,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 33,
+                "Aston Martin": 0,
+                "Red Bull": 26,
+                "Ferrari": 10,
+                "McLaren": 12,
+                "Mercedes": 13
+            }
         }
     ]
 }
