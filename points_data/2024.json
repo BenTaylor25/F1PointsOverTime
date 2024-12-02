@@ -604,6 +604,25 @@
                 "McLaren": 15,
                 "Mercedes": 9
             }
+        },
+        {
+            "name": "Qatar",
+            "date": {
+                "month": 12,
+                "day": 1
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 0,
+                "Haas": 2,
+                "Stake": 4,
+                "Alpine": 10,
+                "Aston Martin": 6,
+                "Red Bull": 25,
+                "Ferrari": 26,
+                "McLaren": 17,
+                "Mercedes": 12
+            }
         }
     ]
 }
