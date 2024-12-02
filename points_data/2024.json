@@ -585,6 +585,25 @@
                 "McLaren": 15,
                 "Mercedes": 43
             }
+        },
+        {
+            "name": "Qatar Sprint",
+            "date": {
+                "month": 11,
+                "day": 30
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 0,
+                "Haas": 2,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 1,
+                "Ferrari": 9,
+                "McLaren": 15,
+                "Mercedes": 9
+            }
         }
     ]
 }
