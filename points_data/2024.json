@@ -566,6 +566,25 @@
                 "McLaren": 12,
                 "Mercedes": 13
             }
+        },
+        {
+            "name": "Vegas",
+            "date": {
+                "month": 11,
+                "day": 24
+            },
+            "points": {
+                "Racing Bulls": 2,
+                "Williams": 0,
+                "Haas": 4,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 11,
+                "Ferrari": 27,
+                "McLaren": 15,
+                "Mercedes": 43
+            }
         }
     ]
 }
