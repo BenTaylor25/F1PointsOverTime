@@ -623,6 +623,25 @@
                 "McLaren": 17,
                 "Mercedes": 12
             }
+        },
+        {
+            "name": "Abu Dhabi",
+            "date": {
+                "month": 12,
+                "day": 8
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 0,
+                "Haas": 4,
+                "Stake": 0,
+                "Alpine": 6,
+                "Aston Martin": 2,
+                "Red Bull": 8,
+                "Ferrari": 33,
+                "McLaren": 26,
+                "Mercedes": 22
+            }
         }
     ]
 }
