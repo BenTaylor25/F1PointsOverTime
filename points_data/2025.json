@@ -1,0 +1,97 @@
+{
+    "year": 2025,
+    "y_axis_increment": 1.0,
+    "teams": [
+        {
+            "name": "McLaren",
+            "hex_colour": "#fe7b07",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Red Bull",
+            "hex_colour": "#011629",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Ferrari",
+            "hex_colour": "#d80001",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Mercedes",
+            "hex_colour": "#1dc5b4",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Racing Bulls",
+            "hex_colour": "#132faa",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Williams",
+            "hex_colour": "#00a1dd",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Aston Martin",
+            "hex_colour": "#0b4a5f",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Alpine",
+            "hex_colour": "#d07ac0",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Haas",
+            "hex_colour": "#db2416",
+            "draw_on_graph": true
+        },
+        {
+            "name": "Stake",
+            "hex_colour": "#00e400",
+            "draw_on_graph": true
+        }
+    ],
+    "weekends": [
+        {
+            "name": "Testing",
+            "date": {
+                "month": 2,
+                "day": 28
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 0,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 0,
+                "Ferrari": 0,
+                "McLaren": 0,
+                "Mercedes": 0
+            }
+        },
+        {
+            "name": "Australia",
+            "date": {
+                "month": 3,
+                "day": 16
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 12,
+                "Haas": 0,
+                "Stake": 6,
+                "Alpine": 0,
+                "Aston Martin": 8,
+                "Red Bull": 18,
+                "Ferrari": 5,
+                "McLaren": 27,
+                "Mercedes": 25
+            }
+        }
+    ]
+}
+ 
