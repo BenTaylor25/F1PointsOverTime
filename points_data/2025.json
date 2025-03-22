@@ -91,6 +91,25 @@
                 "McLaren": 27,
                 "Mercedes": 27
             }
+        },
+        {
+            "name": "China Sprint",
+            "date": {
+                "month": 3,
+                "day": 22
+            },
+            "points": {
+                "Racing Bulls": 3,
+                "Williams": 0,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 6,
+                "Ferrari": 12,
+                "McLaren": 8,
+                "Mercedes": 7
+            }
         }
     ]
 }
