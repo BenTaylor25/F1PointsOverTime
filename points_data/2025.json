@@ -119,15 +119,15 @@
             },
             "points": {
                 "Racing Bulls": 0,
-                "Williams": 2,
-                "Haas": 7,
+                "Williams": 7,
+                "Haas": 14,
                 "Stake": 0,
                 "Alpine": 0,
-                "Aston Martin": 0,
+                "Aston Martin": 2,
                 "Red Bull": 12,
-                "Ferrari": 18,
+                "Ferrari": 0,
                 "McLaren": 43,
-                "Mercedes": 19
+                "Mercedes": 23
             }
         }
     ]
