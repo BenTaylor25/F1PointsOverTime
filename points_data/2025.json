@@ -110,6 +110,25 @@
                 "McLaren": 8,
                 "Mercedes": 7
             }
+        },
+        {
+            "name": "China",
+            "date": {
+                "month": 3,
+                "day": 23
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 2,
+                "Haas": 7,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 12,
+                "Ferrari": 18,
+                "McLaren": 43,
+                "Mercedes": 19
+            }
         }
     ]
 }
