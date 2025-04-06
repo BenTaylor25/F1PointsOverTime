@@ -129,6 +129,25 @@
                 "McLaren": 43,
                 "Mercedes": 23
             }
+        },
+        {
+            "name": "Japan",
+            "date": {
+                "month": 4,
+                "day": 6
+            },
+            "points": {
+                "Racing Bulls": 4,
+                "Williams": 2,
+                "Haas": 1,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 2,
+                "Red Bull": 25,
+                "Ferrari": 18,
+                "McLaren": 33,
+                "Mercedes": 18
+            }
         }
     ]
 }
