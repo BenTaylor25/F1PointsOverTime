@@ -148,6 +148,25 @@
                 "McLaren": 33,
                 "Mercedes": 18
             }
+        },
+        {
+            "name": "Bahrain",
+            "date": {
+                "month": 4,
+                "day": 13
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 0,
+                "Haas": 5,
+                "Stake": 0,
+                "Alpine": 6,
+                "Aston Martin": 0,
+                "Red Bull": 10,
+                "Ferrari": 22,
+                "McLaren": 40,
+                "Mercedes": 18
+            }
         }
     ]
 }
