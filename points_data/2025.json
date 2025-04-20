@@ -167,6 +167,25 @@
                 "McLaren": 40,
                 "Mercedes": 18
             }
+        },
+        {
+            "name": "Saudi",
+            "date": {
+                "month": 4,
+                "day": 20
+            },
+            "points": {
+                "Racing Bulls": 1,
+                "Williams": 6,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 18,
+                "Ferrari": 21,
+                "McLaren": 37,
+                "Mercedes": 18
+            }
         }
     ]
 }
