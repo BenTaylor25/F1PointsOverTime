@@ -186,6 +186,25 @@
                 "McLaren": 37,
                 "Mercedes": 18
             }
+        },
+        {
+            "name": "Miami Sprint",
+            "date": {
+                "month": 5,
+                "day": 3
+            },
+            "points": {
+                "Racing Bulls": 2,
+                "Williams": 5,
+                "Haas": 1,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 3,
+                "Red Bull": 0,
+                "Ferrari": 6,
+                "McLaren": 15,
+                "Mercedes": 4
+            }
         }
     ]
 }
