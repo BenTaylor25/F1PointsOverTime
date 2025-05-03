@@ -194,16 +194,16 @@
                 "day": 3
             },
             "points": {
-                "Racing Bulls": 2,
-                "Williams": 5,
-                "Haas": 1,
+                "Racing Bulls": 0,
+                "Williams": 0,
+                "Haas": 0,
                 "Stake": 0,
-                "Alpine": 0,
-                "Aston Martin": 3,
-                "Red Bull": 0,
+                "Alpine": 1,
+                "Aston Martin": 4,
+                "Red Bull": 3,
                 "Ferrari": 6,
                 "McLaren": 15,
-                "Mercedes": 4
+                "Mercedes": 7
             }
         }
     ]
