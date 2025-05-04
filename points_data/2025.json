@@ -205,6 +205,25 @@
                 "McLaren": 15,
                 "Mercedes": 7
             }
+        },
+        {
+            "name": "Miami",
+            "date": {
+                "month": 5,
+                "day": 4
+            },
+            "points": {
+                "Racing Bulls": 0,
+                "Williams": 12,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 13,
+                "Ferrari": 10,
+                "McLaren": 43,
+                "Mercedes": 23
+            }
         }
     ]
 }
