@@ -224,6 +224,25 @@
                 "McLaren": 43,
                 "Mercedes": 23
             }
+        },
+        {
+            "name": "Imola",
+            "date": {
+                "month": 5,
+                "day": 18
+            },
+            "points": {
+                "Racing Bulls": 2,
+                "Williams": 14,
+                "Haas": 0,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 26,
+                "Ferrari": 20,
+                "McLaren": 33,
+                "Mercedes": 6
+            }
         }
     ]
 }
