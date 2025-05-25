@@ -243,7 +243,25 @@
                 "McLaren": 33,
                 "Mercedes": 6
             }
+        },
+        {
+            "name": "Monaco",
+            "date": {
+                "month": 5,
+                "day": 25
+            },
+            "points": {
+                "Racing Bulls": 12,
+                "Williams": 3,
+                "Haas": 6,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 12,
+                "Ferrari": 28,
+                "McLaren": 40,
+                "Mercedes": 0
+            }
         }
     ]
 }
- 
