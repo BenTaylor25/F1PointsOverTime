@@ -262,6 +262,25 @@
                 "McLaren": 40,
                 "Mercedes": 0
             }
+        },
+        {
+            "name": "Spain",
+            "date": {
+                "month": 6,
+                "day": 1
+            },
+            "points": {
+                "Racing Bulls": 6,
+                "Williams": 0,
+                "Haas": 0,
+                "Stake": 10,
+                "Alpine": 4,
+                "Aston Martin": 2,
+                "Red Bull": 1,
+                "Ferrari": 23,
+                "McLaren": 43,
+                "Mercedes": 12
+            }
         }
     ]
 }
