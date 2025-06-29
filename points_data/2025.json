@@ -300,6 +300,25 @@
                 "McLaren": 12,
                 "Mercedes": 40
             }
+        },
+        {
+            "name": "Canada",
+            "date": {
+                "month": 6,
+                "day": 15
+            },
+            "points": {
+                "Racing Bulls": 8,
+                "Williams": 0,
+                "Haas": 1,
+                "Stake": 6,
+                "Alpine": 0,
+                "Aston Martin": 6,
+                "Red Bull": 0,
+                "Ferrari": 27,
+                "McLaren": 43,
+                "Mercedes": 10
+            }
         }
     ]
 }
