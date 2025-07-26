@@ -338,6 +338,25 @@
                 "McLaren": 43,
                 "Mercedes": 1
             }
+        },
+        {
+            "name": "Spa Sprint",
+            "date": {
+                "month": 7,
+                "day": 26
+            },
+            "points": {
+                "Racing Bulls": 1,
+                "Williams": 3,
+                "Haas": 6,
+                "Stake": 0,
+                "Alpine": 0,
+                "Aston Martin": 0,
+                "Red Bull": 8,
+                "Ferrari": 5,
+                "McLaren": 1,
+                "Mercedes": 0
+            }
         }
     ]
 }
